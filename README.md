@@ -4,7 +4,7 @@ A node proxy server for a nextjs app
 
 proxy-server: node index
 
-my-app: yarn run dev
+test-app: yarn run dev
 
 direct: localhost:3000
 
